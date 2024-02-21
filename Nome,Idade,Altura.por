@@ -3,7 +3,9 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
+		escreva ("Nome: Guilherme"
+		escreva ("\nidade: 18")
+		escreva ("\naltura: 1,72 ")
 	}
 }
 /* $$$ Portugol Studio $$$ 
